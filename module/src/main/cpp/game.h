@@ -5,8 +5,8 @@
 #ifndef RIRU_IL2CPPDUMPER_GAME_H
 #define RIRU_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagename"
-#define UnityVersion 2019.3.7f1
+#define GamePackageName "com.mobile.legends"
+#define UnityVersion 2017.2.1f1
 
 // 2018.3.0f2(v24.1) and up enable it
 #define VersionAboveV24
