@@ -9,7 +9,7 @@
 #define UnityVersion 2017.2.1f1
 
 // 2018.3.0f2(v24.1) and up enable it
-#define VersionAboveV24
+// #define VersionAboveV24
 
 // UnityVersion Compatible list
 // 5.3.0f4     | 5.3.0f4 - 5.3.1f1         | v16
